@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # petinder
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
@@ -66,3 +67,6 @@ If you want to learn more about building native executables, please consult http
 Easily start your Reactive RESTful Web Services
 
 [Related guide section...](https://quarkus.io/guides/getting-started-reactive#reactive-jax-rs-resources)
+=======
+# quarkus-codelab
+>>>>>>> b7a2054d027213369f82eb6b076c905fbf9176a2
